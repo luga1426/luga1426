@@ -1,5 +1,5 @@
-## Hi there 👋 202434720 권한솔
-
+## Hi there 👋 
+202434720 권한솔
 <!--
 **luga1426/luga1426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
